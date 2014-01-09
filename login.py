@@ -5,7 +5,9 @@ import urllib2
 
 import commentURL
 
+'''
 
+'''
 def login(userName, password):
     LOGIN_SUCCESS_FLAG = 'logout.php'
     cj = cookielib.LWPCookieJar()
