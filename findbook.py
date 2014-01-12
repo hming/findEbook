@@ -78,7 +78,7 @@ def getBook(bookUrl, cateName):
     }
     return book
 
-
+#--
 def downloadBook(downloadUrl, targetDir):
     """
     :downloadUrl donload url
